@@ -1,0 +1,11 @@
+//Program Untuk Menghitung Keliling Lingkaran 
+
+DECLARE jari-jari, pi AS INTEGER
+
+pi = Input("Masukan pi Lingkaran")
+jari-jari = Input ("Masukan jari-jari Lingkaran")
+
+Hitung = 2 x CONVERT_TO_FLOAT(pi) x CONVERT_TO_INTEGER (jari-jari)
+
+OUTPUT ("Hasil = " + Hitung)
+
