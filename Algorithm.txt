@@ -5,7 +5,7 @@ Masukan Nilai pi Lingkaran
 Simpan Nilai pi Lingkaran
 Masukan Nilai jari-jari Lingkaran
 Simpan Nilai jari-jari Lingkaran
-Hitung Rumus  2 x pi x jari-jari
+Hitung Rumus  2 * pi * jari-jari
 Tampilkan Hasil 
 Selesai
 
